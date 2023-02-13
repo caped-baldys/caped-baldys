@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @caped-baldys
-- 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning 
+
 - 📫 How to reach me:
 - +91 7620518519
 - svr1052000@gmail.com
